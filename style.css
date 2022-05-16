@@ -2,6 +2,9 @@ h1.clock{
     font-size: 35px;
     text-align: center;
 }
+.image{
+    height: 800px;
+}
 h2.sign{
     font-size: 10;
     text-align: right;
